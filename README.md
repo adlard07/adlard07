@@ -1,4 +1,4 @@
-<img align="center" width='100%' src="assets\rain.gif" alt="banner">
+<img align="center" width='100%' src="assets\cp.gif" alt="banner">
 <h1 href='https://github.com/adlard07'>🏄‍♂️ Adelard Dcunha</h1>
 
 **`Digital Craftsman (Developer/Data Scientist/Data Architect)`**
