@@ -1,8 +1,8 @@
 <img align="center" width='100%' src="assets\cpunk.gif" alt="banner">
 <h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
 
-**`Digital Craftsman (Developer/Data Scientist/Data Architect)`**
-```bash
+***`Digital Craftsman (Developer/Data Scientist/Data Architect)`***
+
 I'm an enthusiastic data science and machine learning undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
 
 <h4>Currently pursuing a degree in computer science with specialization in AI ML</h4>
@@ -12,7 +12,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
    <li>Very passionate about AI/ML and Computer Vision</li>
    <li>Reach me at: adelarddcunha07@gmail.com</li>
 </ul>
-```
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
