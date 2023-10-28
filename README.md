@@ -2,7 +2,7 @@
 <h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
 
 **`Digital Craftsman (Developer/Data Scientist/Data Architect)`**
-
+```bash
 I'm an enthusiastic data science and machine learning undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
 
 <h4>Currently pursuing a degree in computer science with specialization in AI ML</h4>
@@ -12,7 +12,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
    <li>Very passionate about AI/ML and Computer Vision</li>
    <li>Reach me at: adelarddcunha07@gmail.com</li>
 </ul>
-
+```
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -86,7 +86,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
 
 ---
 #### My Spotify !🎧
-[<img src="assets\Spotify_App_Logo.svg.png" width="5%"> <img width='10%' src="assets\johncena-john.gif" alt="banner">](https://open.spotify.com/user/31wc6kr3n7x5wjkh3lk2yh6olsmm?si=56981376d189431f) 
+[<img src="assets\Spotify_App_Logo.svg.png" width="5%">](https://open.spotify.com/user/31wc6kr3n7x5wjkh3lk2yh6olsmm?si=56981376d189431f) 
 
 
 #### Join My Discord 🥹
