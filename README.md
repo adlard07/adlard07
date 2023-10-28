@@ -5,7 +5,7 @@
 
 I'm an enthusiastic data science and machine learning undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
 
-<h4>Currently pursuing a degree in computer science with specialization in AI ML</h4>
+### Currently pursuing a degree in computer science with specialization in AI ML
 <ul>
    <li>Passionate about AI/ML, Electronics, Embedded Systems and System Design</li>
    <li>Side Projects are uploaded here itself</li>
