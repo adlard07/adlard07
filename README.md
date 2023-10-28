@@ -86,7 +86,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
 
 ---
 #### My Spotify !🎧
-[<img src="assets\Spotify_App_Logo.svg.png" width="5%">](https://open.spotify.com/user/31wc6kr3n7x5wjkh3lk2yh6olsmm?si=56981376d189431f) 
+[<img src="![Alt text](image.png)" width="5%">](https://open.spotify.com/user/31wc6kr3n7x5wjkh3lk2yh6olsmm?si=56981376d189431f) 
 
 
 #### Join My Discord 🥹
