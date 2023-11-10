@@ -21,10 +21,10 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
    <!-- linkedin -->
    <a href="https://www.linkedin.com/in/adelard-dcunha-6186b0216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-sengar-924669235" height="30" width="40" /></a>
    <!-- twitter -->
-   [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BotlordWithB)](https://img.shields.io/twitter/follow/BotlordWithB?logo=Twitter)
+   <a href="https://twitter.com/BotlordWithB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitwastaken" height="30" width="40" /></a>
    <!-- instagram -->
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___adelard___d__/)
-
+   <a href="https://www.instagram.com/___adelard___d__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="30" width="40" /></a>
+</p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adlard07&column=-1&theme=onedark" alt="adlard07" /></p>
 
 ### Other:
