@@ -14,7 +14,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
 </ul>
 
 ---
-### Connect with me:
+### 🌐 Connect with me:
 <p align="left">
    <!-- email -->
    <a href="mailto:adelarddcunha07@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="4rpi8" height="30" width="40" /></a>
@@ -30,7 +30,6 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
 ### Other:
    <!-- hackereank -->
    <a href="https://www.hackerrank.com/profile/1803007_adelard1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" height="30" width="40" /></a>
-   <!-- kaggle -->
    <a href="https://www.kaggle.com/adelard123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" height="30" width="40" /></a>
 
 ### 🧰 Languages and Tools
