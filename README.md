@@ -80,7 +80,7 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
 ### 📊 Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rudrax14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrax14&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrax14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adlard07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
