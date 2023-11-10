@@ -10,7 +10,6 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
    <li>Passionate about AI/ML, Electronics, Embedded Systems and System Design</li>
    <li>Side Projects are uploaded here itself</li>
    <li>Very passionate about AI/ML and Computer Vision</li>
-   <li>Reach me at: adelarddcunha07@gmail.com</li>
 </ul>
 
 ---
