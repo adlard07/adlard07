@@ -24,12 +24,13 @@ I'm an enthusiastic data science and machine learning undergraduate fresher with
    <!-- instagram -->
    <a href="https://www.instagram.com/___adelard___d__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="30" width="40" /></a>
 </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adlard07&column=-1&theme=onedark" alt="adlard07" /></p>
 
 ### Other:
    <!-- hackereank -->
    <a href="https://www.hackerrank.com/profile/1803007_adelard1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" height="30" width="40" /></a>
    <a href="https://www.kaggle.com/adelard123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" height="30" width="40" /></a>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adlard07&column=-1&theme=onedark" alt="adlard07" /></p>
 
 ### 🧰 Languages and Tools
 <!-- python -->
