@@ -3,7 +3,7 @@
 
 *`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
 
-I'm an enthusiastic data science and machine learning undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
+I'm a data science and machine learning enthusiast undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
 
 #### Currently pursuing bachelor's degree in computer science with specialization in AI ML
 <ul>
