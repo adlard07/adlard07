@@ -90,4 +90,4 @@ I'm a data science and machine learning enthusiast undergraduate fresher with a 
 [<img src="assets\Listening To Music GIF - Head Phones Music Recording Studio - Discover & Share GIFs.gif" width="6%">](https://discord.gg/RsMC9WZra2)
 
 #### Join My Discord 🥹
-[<img src="assets/Join the giochi Discord Server!.jpg" width="10%">](https://discord.gg/RsMC9WZra2)
+[<img src="assets/Join the giochi Discord Server!.jpg" width="7%">](https://discord.gg/RsMC9WZra2)
