@@ -1,8 +1,9 @@
+<img align="center" width='100%' src="assets\cp.gif" alt="banner">
+<h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
 
 # 🏄‍♂️ Adlard Dcunha
 
-**Digital Craftsman**  
-*Developer | Data Scientist | Data Architect*  
+*`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
 
 I'm an undergraduate data science and machine learning enthusiast, constantly learning and exploring new technologies. Currently, I'm focused on building multiple startups and applying my skills to real-world challenges. Whether it's creating cutting-edge AI models, developing full-stack applications, or diving into embedded systems, I’m always ready for the next challenge.
 
