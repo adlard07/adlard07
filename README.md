@@ -1,6 +1,3 @@
-Here's a readme template for your GitHub profile:
-
----
 
 # 🏄‍♂️ Adlard Dcunha
 
@@ -60,11 +57,3 @@ I'm an undergraduate data science and machine learning enthusiast, constantly le
 
 ### 🥳 Join my Discord Server:
 [![Join my Discord](assets/Join%20the%20giochi%20Discord%20Server!.jpg)](https://discord.gg/RsMC9WZra2)
-
----
-
-Let’s innovate and build something awesome together!
-
----
-
-Feel free to tweak it further to match your personality or focus areas!
