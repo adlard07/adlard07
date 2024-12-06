@@ -91,6 +91,3 @@ I'm a data science and machine learning enthusiast undergraduate fresher with a 
 
 #### Join My Discord 🥹
 [<img src="assets/Join the giochi Discord Server!.jpg" width="7%">](https://discord.gg/RsMC9WZra2)
-
-
-Write me a readme for my github profile. Mention that am currently building multiple startups
