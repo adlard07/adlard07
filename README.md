@@ -1,18 +1,23 @@
-<img align="center" width='100%' src="assets\cp.gif" alt="banner">
-<h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
-
-*`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
-
-I'm a data science and machine learning enthusiast undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
-
-#### Currently pursuing bachelor's degree in computer science with specialization in AI ML
-<ul>
-   <li>Passionate about AI/ML, Electronics, Embedded Systems and System Design</li>
-   <li>Side Projects are uploaded here itself</li>
-   <li>Very passionate about AI/ML and Computer Vision</li>
-</ul>
+Here's a readme template for your GitHub profile:
 
 ---
+
+# 🏄‍♂️ Adlard Dcunha
+
+**Digital Craftsman**  
+*Developer | Data Scientist | Data Architect*  
+
+I'm an undergraduate data science and machine learning enthusiast, constantly learning and exploring new technologies. Currently, I'm focused on building multiple startups and applying my skills to real-world challenges. Whether it's creating cutting-edge AI models, developing full-stack applications, or diving into embedded systems, I’m always ready for the next challenge.
+
+---
+
+### 🌱 What I'm up to:
+- **Building Startups**: Currently juggling multiple startup projects focused on AI, ML, and tech innovation. Stay tuned for more updates!
+- **Exploring New Technologies**: Passionate about AI/ML, Computer Vision, Embedded Systems, and System Design.
+- **Contributing to Open-Source**: I actively work on side projects and share them here.
+
+---
+
 ### 🌐 Connect with me:
 <p align="left">
    <!-- email -->
@@ -25,69 +30,41 @@ I'm a data science and machine learning enthusiast undergraduate fresher with a 
    <a href="https://www.instagram.com/___adelard___d__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4rpi8" height="30" width="40" /></a>
 </p>
 
-### Other:
-   <!-- hackereank -->
-   <a href="https://www.hackerrank.com/profile/1803007_adelard1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpy8" height="30" width="40" /></a>
-   <a href="https://www.kaggle.com/adelard123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpitsengar" height="30" width="40" /></a>
+---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adlard07&column=-1&theme=onedark" alt="adlard07" /></p>
-
-### 🧰 Languages and Tools
-<!-- python -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<!-- tensorflow -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<!-- pytorch -->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<!-- mysql -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<!-- matlab -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<!-- git  -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!-- django -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<!-- mongodb -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<!-- fastapi -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
-<!-- open cv -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
-<!-- linux -->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<!-- html -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<!-- css -->
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<!-- javascript -->
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<!-- react -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<!-- nodejs -->
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!-- C++ -->
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<!-- Github -->
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!-- bash  -->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
-#
-
-### 📊 Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=rudrax14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudrax14&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adlard07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
+### 🚀 Technologies & Tools:
+- **Programming Languages**: Python, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, Django, FastAPI
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, GitHub, Docker, Kubernetes, Linux
 
 ---
-#### My Spotify !🎧
-[<img src="assets\Listening To Music GIF - Head Phones Music Recording Studio - Discover & Share GIFs.gif" width="6%">](https://discord.gg/RsMC9WZra2)
 
-#### Join My Discord 🥹
-[<img src="assets/Join the giochi Discord Server!.jpg" width="7%">](https://discord.gg/RsMC9WZra2)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adlard07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🎧 My Spotify
+
+[![Listening to music](assets/Listening%20To%20Music%20GIF%20-%20Head%20Phones%20Music%20Recording%20Studio%20-%20Discover%20%26%20Share%20GIFs.gif)](https://discord.gg/RsMC9WZra2)
+
+---
+
+### 📝 Check out my latest projects:
+- [Discord-X-Spotify Bot](https://github.com/adlard07/discord-X-spotify)
+- [AI-driven Web Scraper](https://github.com/adlard07/ai-web-scraper)
+- [Data Science Projects](https://github.com/adlard07/data-science-projects)
+
+---
+
+### 🥳 Join my Discord Server:
+[![Join my Discord](assets/Join%20the%20giochi%20Discord%20Server!.jpg)](https://discord.gg/RsMC9WZra2)
+
+---
+
+Let’s innovate and build something awesome together!
+
+---
+
+Feel free to tweak it further to match your personality or focus areas!
