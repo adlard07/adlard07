@@ -7,9 +7,8 @@ I'm a data science and machine learning enthusiast undergraduate fresher with a 
 
 #### 
 <ul>
-   <li>Passionate about AI/ML, Electronics, Embedded Systems and System Design</li>
-   <li>Side Projects are uploaded here itself</li>
-   <li>Very passionate about AI/ML and Computer Vision</li>
+   <li>Deeply passionate and endlessly curious about AI/ML, Electronics, Embedded Systems and System Design</li>
+   <li>I love building something meaningfull</li>
 </ul>
 
 ---
