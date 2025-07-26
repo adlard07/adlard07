@@ -1,4 +1,4 @@
-<img align="center" width='100%' src="assets/movie480_vp9.webm" alt="banner">
+<img align="center" width='100%' src="assets/cp.gif" alt="banner">
 <h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
 
 *`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
