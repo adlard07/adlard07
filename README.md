@@ -1,7 +1,7 @@
 <img align="center" width='100%' src="assets/cp.gif" alt="banner">
 <h1 href='https://github.com/adlard07'>🏄‍♂️ Adlard Dcunha</h1>
 
-*`Digital Craftsman (Developer/Data Scientist/Data Architect)`*
+*`Digital Craftsman (Software Engineer / Data Scientist / Quantitative Developer Analyst)`*
 
 I'm a data science and machine learning enthusiast undergraduate fresher with a passion for learning and exploring new technologies. Seeking opportunities to apply my skills and knowledge to real-world problems.
 
