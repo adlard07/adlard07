@@ -88,22 +88,19 @@ I’m an undergraduate ML/DS enthusiast who loves shipping useful things. Curiou
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlard07&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adlard07&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
 ---
 
-### 🎧 & 💬
+### Spotify 
 <a href="https://open.spotify.com/user/31wc6kr3n7x5wjkh3lk2yh6olsmm?si=64112b1b52444c1d">
   <img src="assets/Listening To Music GIF - Head Phones Music Recording Studio - Discover & Share GIFs.gif" width="6%" alt="spotify">
 </a>
 &nbsp;&nbsp;
+
+### Discord
 <a href="https://discord.gg/vGNXSx6vtz">
   <img src="assets/Join the giochi Discord Server!.jpg" width="7%" alt="discord">
 </a>
 
-<!-- Visitor badge (optional) -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=adlard07&style=flat&color=blue" alt="views"/>
 </p>
