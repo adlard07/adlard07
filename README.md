@@ -17,7 +17,7 @@
 ---
 
 ### 👋 About Me
-I’m an undergraduate ML/DS enthusiast who loves shipping useful things. Curious about AI/ML, electronics, embedded systems, and system design. Looking to apply my skills to real-world problems and grow with impact-driven teams. **Love Building:** ML prototypes, MLOps, System Design, Numerical Methodsyy for Quant, Data Pipelines, Backend Services, Frontend, and DevOps
+I’m a Software and AI/ML Engineer who loves shipping useful things. Curious about AI/ML in Quantitative Finance, electronics, embedded systems, and system design. Looking to apply my skills to real-world problems and grow with impact-driven teams. I **Love Building:** ML prototypes, MLOps, System Design, Numerical Methods for Quant, Data Pipelines, Backend Services, Frontend, and DevOps
 
 ---
 
