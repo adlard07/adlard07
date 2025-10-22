@@ -3,7 +3,7 @@
 
 <h1 align="center">🏄‍♂️ Adlard Dcunha</h1>
 <p align="center">
-  <em>**Digital Craftsman** (Software Engineer / Data Scientist / Quantitative Developer Analyst)</em>
+  <em>*Digital Craftsman* (Software Engineer / Data Scientist / Quantitative Developer Analyst)</em>
 </p>
 
 <p align="center">
