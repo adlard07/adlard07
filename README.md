@@ -66,11 +66,8 @@ I’m a Software and AI/ML Engineer who loves shipping useful things. Curious ab
 ![AWS Bedrock](https://img.shields.io/badge/Bedrock-232F3E?logo=amazonaws&logoColor=white)
 
 #### ⚙️ DevOps / Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white)
-![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?logo=awselasticbeanstalk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/GCP-232F3E?logo=googlecloudplatformgcp&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
