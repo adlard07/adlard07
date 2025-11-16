@@ -94,7 +94,7 @@ I’m a Software and AI/ML Engineer who loves shipping useful things. Curious ab
 &nbsp;&nbsp;
 
 ### Discord
-<a href="https://discord.gg/vGNXSx6vtz">
+<a href="https://discord.gg/preanYQNJ9">
   <img src="assets/Join the giochi Discord Server!.jpg" width="7%" alt="discord">
 </a>
 
