@@ -58,18 +58,6 @@ Three things I keep coming back to:
 
 ---
 
-## At EduvanceAI
-
-- **Multi-agent analytics platform** — plain-English querying over client datasets, with a data-dictionary layer for schema context and memory that pulls relevant history mid-conversation. Handles feature engineering, EDA, analysis, and voice input. **Used by 100+ people across 4 enterprise clients.**
-- **Runtime tool generation** — agents write Python tools on the fly and run them sandboxed. Decomposing each query into a list of intents took output consistency on repeated questions **from 62% to 100%**. Also built the Next.js chat frontend.
-- **RAG over 1,000+ hours of video and 1,200 documents** — Neo4j for the knowledge graph, Pinecone for vectors. Video answers return timestamps, document answers return page numbers, so a field technician can verify rather than trust.
-- **Audio-processing library** for the voice assistant — VAD, silence trimming, noise cancellation, clipping repair, click and pop removal, GPU acceleration. **Throughput +40%, cost per minute −60%**, plus the WER-vs-latency numbers behind our streaming setup.
-- **Embedding spend from $512/month to ~$80** — benchmarked the OpenAI API against a self-hosted quantized multilingual model on EC2 G4 using WER and recall@k, then moved Hindi, English, and Hinglish retrieval across.
-- **Sales Copilot** — forecasting, dealer clustering, and TSP route optimization producing monthly journey plans for 70 outlets across South and East India. **Travel distance −70%, visit coverage +50%.**
-- **Error-logging and model-monitoring microservice** — downtime from near-constant to about once a week, and root cause roughly twice as fast.
-
----
-
 ## Projects
 
 <!-- Swap the # links for real repo URLs, then pin these three on your profile. -->
