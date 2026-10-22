@@ -31,68 +31,6 @@ My projects lean toward systems where being wrong is expensive — real-time car
 
 **Open to:** AI/ML Engineering · Agentic & GenAI Systems · Applied ML in BFSI.
 
----
-
-## How I Build
-
-```mermaid
-flowchart LR
-    Q[Query<br/>text or voice] --> I[Intent<br/>decomposition]
-    I --> P[Planning +<br/>semantic memory]
-    P --> T[Tool generation]
-    T --> X[Sandboxed run<br/>+ static checks]
-    P --> R[Retrieval]
-    R --> PC[(Pinecone<br/>vectors)]
-    R --> N[(Neo4j<br/>knowledge graph)]
-    X --> S[Synthesis]
-    R --> S
-    S --> A[Answer with citations<br/>timestamps, page numbers]
-    A -.eval + drift traces.-> P
-```
-
-Three things I keep coming back to:
-
-- **Traceable or it didn't ship.** Every answer carries a timestamp or a page number, so a user can check the source instead of trusting the model.
-- **Agent-written code runs in a sandbox.** Static checks and isolation, not optimism.
-- **Pick the operating point from cost, not F1.** Thresholds should reflect what a mistake actually costs — chargebacks weigh differently from false declines.
-
----
-
-## Projects
-
-<!-- Swap the # links for real repo URLs, then pin these three on your profile. -->
-
-### [Real-time fraud and anomaly detection for card transactions](#) &nbsp;<sub>BFSI</sub>
-`Gradient Boosting` `Autoencoder` `PySpark Streaming` `Redis` `MLflow`
-
-A flagged transaction has to be stopped before authorization completes, so every event is scored inline — **p99 under 40ms** against a Redis online feature store. Two models rather than one: gradient boosting for fraud patterns already seen, autoencoder reconstruction error for the ones that aren't, against a **0.2% positive class**. Thresholds come from expected-cost curves weighing chargeback losses against customers lost to false declines; optimizing F1 would have picked the wrong operating point. Features are built in PySpark Structured Streaming with point-in-time correctness — an earlier offline version leaked labels worth **11 AUC points**. PSI and KS monitors trigger retraining, MLflow gates promotion on precision@k, and new models roll out shadow then canary, with a SHAP explanation on every alert.
-
-### [Autonomous voice intake and triage agent](#)
-`STT` `Intent Classification` `LLM` `VoIP`
-
-An agent that answers the phone for appliance repair businesses and runs the whole intake: takes the complaint, works out what's wrong, resolves or escalates, and books the visit. Speech-to-text and intent classification run on the live transcript, separating problems a caller can fix themselves from ones needing a technician on site. Minor cases get likely causes, a DIY fix, or a replacement part from an LLM layer; anything complicated becomes a scheduled visit. Appointments are booked straight from the transcript and synced to the dispatch calendar with nobody in the loop. Calls that used to ring out after hours now get a response.
-
-### [Hierarchical demand forecasting for multi-store retail](#)
-`MinT Reconciliation` `Conformal Prediction` `Keras` `SageMaker`
-
-A retailer that replenishes per store but budgets per region needs forecasts that agree with each other. MinT reconciliation makes store-level predictions sum exactly to regional and national totals, removing the manual overrides planners had been using to paper over the mismatch. Several thousand intermittent series, rolling-origin backtested against seasonal-naive and gradient-boosted baselines before trusting the Keras model over either. Conformal prediction supplies calibrated intervals, so safety stock comes from measured uncertainty instead of a fixed buffer. Weekly SageMaker retraining with champion-challenger promotion gated on a statistically significant pinball-loss improvement, falling back to the statistical baseline when neural forecasts degrade.
-
----
-
-## Stack
-
-| | |
-|---|---|
-| **Agentic AI** | Multi-agent systems · Planning & intent decomposition · Semantic memory · Tool use & generation · Sandboxed execution · Guardrails · LangGraph |
-| **GenAI & LLMs** | RAG · Prompt engineering & evaluation · Fine-tuning · Document understanding · Conversational AI · Quantization · Inference & cost optimization |
-| **Retrieval & Storage** | Pinecone · ChromaDB · Neo4j knowledge graphs · Redis · PostgreSQL · Multimodal retrieval · recall@k evaluation |
-| **ML, DL & NLP** | Classification · Regression · Clustering · Anomaly detection · Time-series forecasting · Speech-to-text · Feature engineering · Model evaluation |
-| **Languages & Frameworks** | Python · SQL · TensorFlow · Keras · scikit-learn · Hugging Face Transformers · pandas · NumPy · SHAP · Node.js |
-| **Data & Infra** | PySpark Structured Streaming · Apache Kafka · Docker · Kubernetes · AWS (EC2, SageMaker) · REST APIs & microservices |
-| **MLOps** | MLflow · Drift detection (PSI, KS) · Automated retraining · Champion-challenger promotion · Shadow & canary rollout · Model monitoring |
-
----
-
 ## Writing
 
 **[Your ASR Model Isn't the Problem, Your Signal Path Is](https://medium.com/@adelarddcunha07)** — why transcription accuracy is usually lost before the audio ever reaches the model.
@@ -103,8 +41,6 @@ A retailer that replenishes per store but budgets per region needs forecasts tha
 
 **BE, Artificial Intelligence and Data Science** — Fr. Conceicao Rodrigues College of Engineering, Mumbai · 2021–2024
 **Diploma, Electronics and Telecommunication** — St. Xavier's Technical Institute, Mumbai · 2018–2021
-
-Certified in Mathematics for Machine Learning and Data Science, and the Machine Learning Specialization — DeepLearning.AI / Stanford on Coursera.
 
 ---
 
